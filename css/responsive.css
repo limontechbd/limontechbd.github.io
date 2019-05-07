@@ -9,7 +9,7 @@
   grid-template-columns: auto auto auto auto;
   grid-gap:20px;
   background-color: #DEE1E6;
-  padding:20px;
+  padding:12px;
 }
 .container_single > div {
 
@@ -309,7 +309,7 @@ aside ul li a{
     grid-template-columns: auto auto auto;
     grid-gap:20px;
     background-color: #DEE1E6;
-  padding:20px;
+  padding:12px;
   }
   .container_single > div {
 
@@ -622,7 +622,7 @@ display:none;
     grid-template-columns: auto;
     grid-gap:5px;
     background-color: #DEE1E6;
-  padding:20px;
+  padding:12px;
   }
   .container_single > div {
 
@@ -847,7 +847,7 @@ display:none;
     grid-template-columns: auto;
     grid-gap:5px;
     background-color: #DEE1E6;
-	  padding:20px;
+	  padding:12px;
 
   }
   .container_single > div {
